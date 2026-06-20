@@ -73,6 +73,6 @@ plt.axhline(y=mediaan_kosten, color='orange', linestyle='-.', linewidth=2, label
 plt.legend()
 plt.show()
 
-
+#TBC :) 
 
 
